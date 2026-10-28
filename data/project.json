@@ -1,0 +1,38 @@
+[
+    {
+        "title":"Benedikte Brechmann, Design System",
+        "description":"I independently created a design system for a group-developed web application, documenting its visual styles, components, interaction patterns, and design guidelines. Using the team's HTML, CSS, and JavaScript as the primary reference, I organised the existing interface into a structured Figma document to establish a clear overview of the implemented design.",
+        "category":"UI/UX & Development",
+        "imageUrl":"/images/designsystem.webp"
+    },
+    {
+        "title":"Benedikte Brechmann, Frontend Development & UX Improvements",
+        "description":"I independently developed and delivered the homepage of a group-developed web application for Benedikte Brechmann, focusing particularly on implementing an interactive carousel using JavaScript. Following the initial development, I conducted user testing, identified usability issues, and designed improvements to the homepage and other key interfaces. I presented these improvements as an interactive Figma prototype during my final examination.",
+        "category":"UI/UX & Development",
+        "imageUrl":"/images/bb-app.webp"  
+    },
+    {
+        "title":"REFILLD, Instagram Advertisement",
+        "description":"I independently designed an Instagram advertisement for REFILLD as part of a collaborative content workshop. Targeting women aged 23–29, I selected product imagery, typography, colours, and layout to create a playful, minimalist composition. Using a question about hot and iced coffee, I developed a visually engaging concept that communicates the product's versatility while appealing to the intended audience.",
+        "category":"Graphic Design",
+        "imageUrl":"/images/kaffe.webp"  
+    },
+    {
+        "title":"Word Festival, Personalised Programme Flyer",
+        "description":"I independently designed a personalised festival programme flyer for Word Festival as part of a collaborative project. I was responsible for the entire visual design, including layout, typography, and the organisation of speaker information and schedules. Working within the festival's visual identity, I created a printed programme that helps visitors navigate their selected events and plan their festival experience.",
+        "category":"Graphic design",
+        "imageUrl":"/images/poster-new.webp"  
+    },
+    {
+        "title":"Word Festival, Poster Redesign",
+        "description":"I independently redesigned an existing promotional poster for Word Festival as part of an individual examination project. Using Figma, I improved the typography, readability, visual hierarchy, and overall composition while maintaining the festival's established visual identity. The redesign presents the personalised programme more prominently and communicates its purpose through a clearer, more focused layout.",
+        "category":"Graphic design",
+        "imageUrl":"/images/redesign-poster.webp"  
+    },
+    {
+        "title":"Christmas Card, Image Retouching",
+        "description":"I edited a personalised Christmas card image for a private client in Adobe Photoshop. The original artwork featured painted footprints from her two sons, but the print included distracting smudges and lacked colour intensity. I refined the composition by removing unwanted marks and enhancing the colours, then adjusted the result further based on client feedback to create a clearer and more visually striking final image.",
+        "category":"Image Editing",
+        "imageUrl":"/images/christmascard.webp"  
+    }
+]
