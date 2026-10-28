@@ -6,6 +6,7 @@ fetch("https://valgfag-9c07e-default-rtdb.europe-west1.firebasedatabase.app/.jso
   .then(response => response.json())
   .then(json => {
     projects.value = json
+    console.log(projects.value)
     })
 </script>
 
