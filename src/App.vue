@@ -96,8 +96,8 @@ fetch("https://valgfag-9c07e-default-rtdb.europe-west1.firebasedatabase.app/.jso
   color: var(--color-title);
   width: fit-content;
   border-bottom: 0.2rem solid currentColor;
-  margin-top: 2rem;
-  margin-bottom: 4rem;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
 }
 
  .project-gallery {
@@ -111,14 +111,14 @@ fetch("https://valgfag-9c07e-default-rtdb.europe-west1.firebasedatabase.app/.jso
    display: flex;
    justify-content: space-between;
    align-items: center;
-   padding-block: 1.5rem;
+   padding-block: 0.5rem;
  }
 
  .carousel-button {
    background: transparent;
    border: none;
    color: var(--color-text);
-   font-size: 5rem;
+   font-size: 3rem;
    line-height: 1;
    padding: 0;
    cursor: pointer;
@@ -131,10 +131,10 @@ fetch("https://valgfag-9c07e-default-rtdb.europe-west1.firebasedatabase.app/.jso
  }
 
  .carousel-dot {
-   width: 1.5rem;
-   height: 1.5rem;
+   width: 0.8rem;
+   height: 0.8rem;
    padding: 0;
-   border: 0.2rem solid transparent;
+   border: 0.15rem solid transparent;
    border-radius: 50%;
    background-color: var(--color-text);
    cursor: pointer;
