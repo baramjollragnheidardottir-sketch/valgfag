@@ -1,4 +1,16 @@
-
+:root {
+  --color-background: #F2EFDC;
+  --color-card: #8C3E11;
+  --color-title: #000000;
+  --color-text: #F2EFDC;
+  --color-category: #000000;
+  --font-primary: 'Georgia', 'Times New Roman', serif;
+  --font-size-hero: 4rem;
+  --font-size-title: 2.5rem;
+  --font-size-category: 1.25rem;
+  --font-size-body: 1rem;
+  --content-padding: 2rem
+}
 
 *,
 *::before,
@@ -9,6 +21,7 @@
 }
 
 body {
+  background-color: var(--color-background);
   min-height: 100vh;
   transition:
     color 0.5s,
